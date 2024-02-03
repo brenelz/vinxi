@@ -1,5 +1,12 @@
 # vinxi
 
+## 0.2.2
+
+### Patch Changes
+
+- a109c52: feat: Reexporting type CookieSerializeOptions from 'cookie-es', used by cookie helpers
+  - @vinxi/devtools@0.2.0
+
 ## 0.2.1
 
 ### Patch Changes
